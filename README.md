@@ -1,5 +1,4 @@
-### Dba – Administradores de banco de dados
- - Mateus A. (*Scrum Master*)
- - Victor Hugo (Desenvolvedor)
- - Williany F. (Desenvolvedora)
- 
+ ### BackEnd – Desenvolvedores júnior e pleno 
+ - Adriano C. (*Scrum Master*)
+ - Luiza T.   (Desenvolvedora plena)
+ - Walter D.  (Desenvelvedor júnior)
